@@ -24,27 +24,30 @@ __A User can see my initial repository and live demo__
 
 ## 1. User story: Header and Navigation
 
-__full user story description__
+### Branches
 
-### Repo
-
-what branch(es) did you work on?
+- This user story was developed on a brach called `1-header-nav`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed on each of pages. It is the first what see site-visitor. This block should be simple, attractive, understandable and tell to site-visitor where he is and what he could find it.
+
+Add title and meta-tag for SEO.  
+Add link for style-css.  
+Add header with name of company and navigation in the right-side of header.  
+Use minimum text.
 
 ### CSS
 
-what did you change in the CSS and why?
+Use mono color for header with contrast color of font.  
+Use hover for navigation.
 
 ----
 
 ## 2. User story: Showcase
 
-__full user story description__
-
-### Repo
+### Branches
 
 what branch(es) did you work on?
 
@@ -60,9 +63,7 @@ what did you change in the CSS and why?
 
 ## 3. User story: Newsletter
 
-__full user story description__
-
-### Repo
+### Branches
 
 what branch(es) did you work on?
 
@@ -78,9 +79,7 @@ what did you change in the CSS and why?
 
 ## 4. User story: Boxes
 
-__full user story description__
-
-### Repo
+### Branches
 
 what branch(es) did you work on?
 
@@ -96,9 +95,7 @@ what did you change in the CSS and why?
 
 ## 5. User Story: Footer
 
-__full user story description__
-
-### Repo
+### Branches
 
 what branch(es) did you work on?
 
@@ -114,9 +111,7 @@ what did you change in the CSS and why?
 
 ## 6. User story: Article-Aside
 
-__full user story description__
-
-### Repo
+### Branches
 
 what branch(es) did you work on?
 
@@ -132,9 +127,7 @@ what did you change in the CSS and why?
 
 ## 7. User story: Main-Aside
 
-__full user story description__
-
-### Repo
+### Branches
 
 what branch(es) did you work on?
 
@@ -150,9 +143,7 @@ what did you change in the CSS and why?
 
 ## 8. User story: Media queries
 
-__full user story description__
-
-### Repo
+### Branches
 
 what branch(es) did you work on?
 
