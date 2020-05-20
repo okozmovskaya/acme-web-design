@@ -49,15 +49,19 @@ Use hover for navigation.
 
 ### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `2-showcase`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed only on Home-page with aim attract attention and decorate site.
+
+Add section with motto of company and short nice introduction.
 
 ### CSS
 
-what did you change in the CSS and why?
+Add simple foto as background relevant company activities.
+Tune contrast font.
 
 ----
 
