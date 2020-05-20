@@ -31,7 +31,7 @@ __A User can see my initial repository and live demo__
 
 ### HTML
 
-> This site-block is displayed on each of pages. It is the first what see site-visitor. This block should be simple, attractive, understandable and tell to site-visitor where he is and what he could find it.
+> This site-block is displayed on each pages. It is the first what see site-visitor. This block should be simple, attractive, understandable and tell to site-visitor where he is and what he could find it.
 
 Add title and meta-tag for SEO.  
 Add link for style-css.  
@@ -69,15 +69,22 @@ Tune contrast font.
 
 ### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `3-newsletter`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed on each pages. His aim is incite site-visitor to subscribe on news of company.
+
+Add form for subscribe to news with tips in placeholders.   
+Add button for form.   
+Add short urging head for form.
 
 ### CSS
 
-what did you change in the CSS and why?
+Use contrast font.
+Use mono background.
+Use colorful bright color for button.  
 
 ----
 
