@@ -40,7 +40,8 @@ Use minimum text.
 
 ### CSS
 
-Use mono color for header with contrast color of font.  
+Use mono color for background of header.   
+Use contrast color of font.  
 Use hover for navigation.
 
 ----
@@ -92,15 +93,21 @@ Use colorful bright color for button.
 
 ### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `4-boxes`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed only on Home-page. It should reveal main types of services which company offers. These services must be understandable and remembered.
+
+Add 3 section with 3 type of services.  
+Each section consist of logo-page, head and short paragraph.
 
 ### CSS
 
-what did you change in the CSS and why?
+Use contrast font.  
+Use colorful outline images for logo-page of services.
+
 
 ----
 
