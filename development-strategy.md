@@ -2,8 +2,8 @@
 
 > `acme-web-design`
 
-- This project is a simple little website developing with git branches and incremental development.
-- This project would interest for novice students of web-development because there is example of applying git branches and incremental development.
+- This project is a simple little website developing with git branches and incremental-development.
+- This project would interest for novice students of web-development because there is example of applying git branches and incremental-development.
 
 ## Wireframe
 
@@ -14,13 +14,12 @@
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
-
 ### Repo
 
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
+
 
 ## 1. User story: Header and Navigation
 
@@ -31,7 +30,7 @@ __A User can see my initial repository and live demo__
 
 ### HTML
 
-> This site-block is displayed on each pages. It is the first what see site-visitor. This block should be simple, attractive, understandable and tell to site-visitor where he is and what he could find it.
+> This site-block is displayed on each pages. It is the first what see site-visitor. This block should be simple, attractive, understandable and tell to site-visitor where he is and what he could find.
 
 Add title and meta-tag for SEO.  
 Add link for style-css.  
@@ -101,12 +100,12 @@ Use colorful bright color for button.
 > This site-block is displayed only on Home-page. It should reveal main types of services which company offers. These services must be understandable and remembered.
 
 Add 3 section with 3 type of services.  
-Each section consist of logo-page, head and short paragraph.
+Each section consist of logo-img, head and short paragraph.
 
 ### CSS
 
 Use contrast font.  
-Use colorful outline images for logo-page of services.
+Use colorful outline images as logo-img of services.
 
 ----
 
@@ -152,7 +151,7 @@ Add aside element with description what company do.
 
 ### CSS
 
-Highlight with background color the main part of about us.
+Make highlight background for the main part of about us.
 Highlight and align sidebar.
 
 ----
@@ -176,7 +175,7 @@ Add aside element as a form with e-mail and placeholder for message.
 
 ### CSS
 
-Highlight with background color each services in list.  
+Make highlight background color for each services in list.  
 Highlight and align sidebar-form.
 
 ----
