@@ -132,23 +132,32 @@ Use mono color of background in harmony with the overall color scheme.
 
 ----
 
-## 6. User story: Article-Aside
+## 6. User story: About
 
 ### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `6-about`
+- It was merged to master when the feature was finished.
+
 
 ### HTML
 
-what did you change in the HTML and why?
+> This branch about the second page of site which call About. On this page site-visitor expect to see some information about company and what she do. This page should be part of overall site.
+
+Create about.html.   
+Add html tags, title About and link to css file.  
+Copy-paste SEO tag, header, section Newsletter and footer from index.html.  
+Add section Main with some nice information about company (about us).  
+Add aside element with description what company do.  
 
 ### CSS
 
-what did you change in the CSS and why?
+Highlight with background color the main part of about us.
+Highlight and align sidebar.
 
 ----
 
-## 7. User story: Main-Aside
+## 7. User story: Services
 
 ### Branches
 
