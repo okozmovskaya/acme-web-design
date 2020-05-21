@@ -185,15 +185,18 @@ Highlight and align sidebar-form.
 
 ### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `8-media`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+Html-files without changes.
 
 ### CSS
 
-what did you change in the CSS and why?
+> This step of development need for tune-up site for different displays: phone, tablet, computer. It's necessary to web-site will not lose some information and can be readable on any device.
+
+Tune-up max and min width, float, text-align and margins.  
 
 ----
 
