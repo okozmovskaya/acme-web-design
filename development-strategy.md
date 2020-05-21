@@ -83,9 +83,9 @@ Add short urging head for form.
 
 ### CSS
 
-Use contrast font.
-Use mono background.
-Use colorful bright color for button.  
+Use contrast font.  
+Use mono background.  
+Use colorful bright color for button.    
 
 ----
 
@@ -108,22 +108,27 @@ Each section consist of logo-page, head and short paragraph.
 Use contrast font.  
 Use colorful outline images for logo-page of services.
 
-
 ----
 
 ## 5. User Story: Footer
 
 ### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `5-footer`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This site-block is displayed on each pages. It is needed for confirmation that all information on site owned by company.
+
+Add paragraph about owner of site and copyright.  
+Add the year of creation of the site.  
 
 ### CSS
 
-what did you change in the CSS and why?
+Use contrast font.  
+Use a little font.  
+Use mono color of background in harmony with the overall color scheme.  
 
 ----
 
