@@ -161,15 +161,23 @@ Highlight and align sidebar.
 
 ### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `7-services`
+- It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+> This branch about the third page of site which call Services. On this page site-visitor expect to see all services of company with descriptions and prices. Also site-visitor should have possibility to send question or make order if some of services will interest him. This page should be part of overall site.
+
+Create services.html.     
+Add html tags, title Services and link to css file.  
+Copy-paste SEO tag, header, section Newsletter and footer from index.html.  
+Add section Main with list of 3 services: head, description, price.    
+Add aside element as a form with e-mail and placeholder for message.   
 
 ### CSS
 
-what did you change in the CSS and why?
+Highlight with background color each services in list.  
+Highlight and align sidebar-form.
 
 ----
 
